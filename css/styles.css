@@ -7,30 +7,32 @@ body, button{
   width: 50%;
   margin: 40px auto 140px;
 }
-
-h1{
+.logo {
+  width: 20%
+}
+h1 {
   font-weight: normal;
   font-size: 48px;
 }
 
-img{
+img {
   width: 100%;
 }
 
-h1,h2,p{
+h1,h2,p {
   text-align: center;
 }
 a{
   color: blue;
 }
-button{
+button {
   margin: 80px auto 100px;
   display: block;
   font-size: 19px;
   border: none;
   padding: 14px 54px;
-  background-color: rgba(159, 10, 38, 1);
-  color: white;
+  background-color: rgba(255, 81, 0, 0.32);
+  color: #cd647c;
   border-radius: 10px;
 }
 
